@@ -1,3 +1,3 @@
-DevOps | CI/CD | K8s | OpenShift | Terraform | Ansible | Jenkins | AWS | GCPDevOps | CI/CD | K8s | OpenShift | Terraform | Ansible | Jenkins | AWS | GCP
+DevOps | CI/CD | K8s | OpenShift | Terraform | Ansible | Jenkins | AWS | 
 
 to be updated.....
